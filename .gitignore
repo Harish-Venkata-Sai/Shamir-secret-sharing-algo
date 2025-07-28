@@ -1,0 +1,26 @@
+# Ignore build artifacts
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# Ignore compiled binary
+secret
+
+# Backup or temp files
+*~
+*.swp
+*.tmp
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+
+secret_fin
+secret_find
+secret_finder
